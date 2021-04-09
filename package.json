@@ -7,6 +7,6 @@
     "start": "npm start --prefix consumer"
   },
   "dependencies": {
-    "concurrently": "^5.0.2"
+    "concurrently": "^5.3.0"
   }
 }
